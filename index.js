@@ -56,7 +56,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
     const r = new Discord.RichPresence()
       .setApplicationId('1112701450150232085')
       .setType('STREAMING')
-      .setURL('https://www.youtube.com/watch?v=yiUSvbDRR4o')
+      .setURL('https://www.youtube.com/watch?v=Xhh3_-JRnDc')
       .setState(`Discord`)
       .setName(`🎮`)
       .setDetails(`Pxng`)
